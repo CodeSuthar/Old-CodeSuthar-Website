@@ -1,6 +1,6 @@
 const preloader = document.getElementById('preloader');
 
-const debug = true;
+const debug = false;
 
 if (debug) {
     preloader.style.display = 'none';
